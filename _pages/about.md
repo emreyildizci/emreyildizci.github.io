@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "title 1"
+title: "Başlık"
 excerpt: "About Me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-1st Content in this website
+Yazı gelecek.
